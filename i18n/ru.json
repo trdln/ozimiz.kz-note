@@ -1,0 +1,81 @@
+{
+  "PROJECTTITLE": "Ozimiz.Note",
+  "blockTunes": {
+    "delete": {
+      "Delete": "Удалить"
+    },
+    "moveDown": {
+      "Move down": "Переместить вниз"
+    },
+    "moveUp": {
+      "Move up": "Переместить вверх"
+    }
+  },
+  "error": {
+    "unknown": "Неизвестная ошибка"
+  },
+  "errors": {
+    "fillInput": "Заполните необходимые поле"
+  },
+  "project": {
+    "subtitle": "Тестовое задание для многовекторной IT компании, предоставляющая курсы и услуги аутсорсинга"
+  },
+  "toaster": {
+    "success": "Операция прошла успешно"
+  },
+  "toolNames": {
+    "Bold": "Полужирный",
+    "Checklist": "Чеклист",
+    "Code": "Код",
+    "Delimiter": "Разделитель",
+    "Heading": "Заголовок",
+    "InlineCode": "Моноширинный",
+    "Italic": "Курсив",
+    "Link": "Ссылка",
+    "List": "Список",
+    "Marker": "Маркер",
+    "Quote": "Цитата",
+    "Raw HTML": "HTML-фрагмент",
+    "Table": "Таблица",
+    "Text": "Параграф",
+    "Warning": "Примечание"
+  },
+  "tools": {
+    "link": {
+      "Add a link": "Вставьте ссылку"
+    },
+    "stub": {
+      "The block can not be displayed correctly": {
+        "": "Блок не может быть отображен"
+      }
+    },
+    "warning": {
+      "Message": "Сообщение",
+      "Title": "Название"
+    }
+  },
+  "ui": {
+    "blockTunes": {
+      "toggler": {
+        "Click to tune": "Нажмите, чтобы настроить",
+        "or drag to move": "или перетащите"
+      }
+    },
+    "createNote": "Новая заметка",
+    "inlineToolbar": {
+      "converter": {
+        "Convert to": "Конвертировать в"
+      }
+    },
+    "login": "Войти",
+    "myNotes": "Мои заметки",
+    "notes": "Заметки",
+    "profile": "Профиль",
+    "save": "Сохранить",
+    "toolbar": {
+      "toolbox": {
+        "Add": "Добавить"
+      }
+    }
+  }
+}

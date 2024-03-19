@@ -1,0 +1,81 @@
+{
+  "PROJECTTITLE": "Ozimiz.Note",
+  "blockTunes": {
+    "delete": {
+      "Delete": "Delete"
+    },
+    "moveDown": {
+      "Move down": "Move down"
+    },
+    "moveUp": {
+      "Move up": "Move up"
+    }
+  },
+  "error": {
+    "unknown": "Unknown error"
+  },
+  "errors": {
+    "fillInput": "Fill an input"
+  },
+  "project": {
+    "subtitle": "Test task for a multi-vector IT company providing courses and outsourcing services"
+  },
+  "toaster": {
+    "success": "Success"
+  },
+  "toolNames": {
+    "Bold": "Bold",
+    "Checklist": "Checklist",
+    "Code": "Code",
+    "Delimiter": "Delimiter",
+    "Heading": "Heading",
+    "InlineCode": "InlineCode",
+    "Italic": "Italic",
+    "Link": "Link",
+    "List": "List",
+    "Marker": "Marker",
+    "Quote": "Quote",
+    "Raw HTML": "Raw HTML",
+    "Table": "Table",
+    "Text": "Text",
+    "Warning": "Warning"
+  },
+  "tools": {
+    "link": {
+      "Add a link": "Add a link"
+    },
+    "stub": {
+      "The block can not be displayed correctly": {
+        "": "The block can not be displayed correctly."
+      }
+    },
+    "warning": {
+      "Message": "Message",
+      "Title": "Title"
+    }
+  },
+  "ui": {
+    "blockTunes": {
+      "toggler": {
+        "Click to tune": "Click to tune",
+        "or drag to move": "or drag to move"
+      }
+    },
+    "createNote": "Create Note",
+    "inlineToolbar": {
+      "converter": {
+        "Convert to": "Convert to"
+      }
+    },
+    "login": "Login",
+    "myNotes": "My Notes",
+    "notes": "Notes",
+    "profile": "Profile",
+    "save": "Save",
+    "toolbar": {
+      "toolbox": {
+        "Add": "Add"
+      }
+    }
+  }
+}

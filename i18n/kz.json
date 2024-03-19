@@ -1,0 +1,81 @@
+{
+  "PROJECTTITLE": "Ozimiz.Note",
+  "blockTunes": {
+    "delete": {
+      "Delete": "Өшіру"
+    },
+    "moveDown": {
+      "Move down": "Астыға"
+    },
+    "moveUp": {
+      "Move up": "Үстіге"
+    }
+  },
+  "error": {
+    "unknown": "Қате"
+  },
+  "errors": {
+    "fillInput": "Толтырыңыз"
+  },
+  "project": {
+    "subtitle": "Курстар мен аутсорсинг қызметтерін ұсынатын көп векторлы АТ компаниясына арналған тест тапсырмасы"
+  },
+  "toaster": {
+    "success": "Сәтті"
+  },
+  "toolNames": {
+    "Bold": "Қалың",
+    "Checklist": "Тексеру тізімі",
+    "Code": "Код",
+    "Delimiter": "Бөлгіш",
+    "Heading": "Тақырып",
+    "InlineCode": "Моноғарыш",
+    "Italic": "Курсив",
+    "Link": "Сілтеме",
+    "List": "Тізім",
+    "Marker": "Маркер",
+    "Quote": "Дәйексөз",
+    "Raw HTML": "HTML фрагменті",
+    "Table": "Кесте",
+    "Text": "Параграф",
+    "Warning": "Ескерту"
+  },
+  "tools": {
+    "link": {
+      "Add a link": "Сілтемені қою"
+    },
+    "stub": {
+      "The block can not be displayed correctly": {
+        "": "Блокты көрсету мүмкін емес"
+      }
+    },
+    "warning": {
+      "Message": "Хабар",
+      "Title": "Аты"
+    }
+  },
+  "ui": {
+    "blockTunes": {
+      "toggler": {
+        "Click to tune": "Конфигурациялау үшін басыңыз",
+        "or drag to move": "немесе сүйреп апарыңыз"
+      }
+    },
+    "createNote": "Жаңа",
+    "inlineToolbar": {
+      "converter": {
+        "Convert to": "Түрлендіру"
+      }
+    },
+    "login": "Кіру",
+    "myNotes": "Менің жазбалары",
+    "notes": "Жазбалар",
+    "profile": "Профиль",
+    "save": "Сақтау",
+    "toolbar": {
+      "toolbox": {
+        "Add": "Қосу"
+      }
+    }
+  }
+}
